@@ -1,5 +1,5 @@
 /*
- * Cell.Javascript
+ * Cell.Java
  */
 
 import java.awt.Color;
